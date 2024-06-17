@@ -1,7 +1,11 @@
-Link al deploy: https://xyeruza.github.io/js-condicionales/
+Link al deploy: https://xyeruza.github.io/funciones-js/
 
-Link a los repositorios: https://github.com/xyeruza/js-condicionales-1
+Link a los repositorios: https://github.com/xyeruza/funciones_1_1
 
-https://github.com/xyeruza/js-condicionales-2
+https://github.com/xyeruza/funciones_1_2
 
-https://github.com/xyeruza/js-condicionales-3
+https://github.com/xyeruza/funciones_2_
+
+https://github.com/xyeruza/funciones_3
+
+https://github.com/xyeruza/funciones_3_2
